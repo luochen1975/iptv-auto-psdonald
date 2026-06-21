@@ -1,46 +1,150 @@
 #EXTM3U
-# 港澳台 IPTV | 更新: 2026-06-21 12:59
-# 频道: 21
+# 港澳台 IPTV (已验证可播) | 2026-06-21 13:25
+# 频道: 73
 
-#EXTINF:-1 group-title="港澳其他频道",Pet Club TV (1080p)
-https://petclub-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TVBS（台湾）",TVBS亚洲
-http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="TVBS（台湾）",TVBS新闻台
-http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 group-title="港澳其他频道",tvbs新聞
-http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="有线/Now",Now星影台
-http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
-#EXTINF:-1 group-title="港澳其他频道",tvbs新聞
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 group-title="港澳其他频道",tvbs閩南
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 group-title="TVB翡翠台",翡翠
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-#EXTINF:-1 group-title="TVB翡翠台",翡翠
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 group-title="澳门频道",Lotus Macau HD 720p (720p)
-https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
-#EXTINF:-1 group-title="港台RTHK",凤凰香港台
-https://epg.pw/stream/27b49ba568efc8dcc9af6a79ec06ffd4a2e354e3e2060143be83fca695edf46e.m3u8
+#EXTINF:-1 group-title="港澳其他频道",[BD]tvbs亚洲
+https://stream1.freetv.fun/2aef95d17a02f90322721318b132da070c7e4cf542e6fcebe3d6ce02379a4742.m3u8
+#EXTINF:-1 group-title="港澳其他频道",[BD]tvbs亚洲
+https://stream1.freetv.fun/490340d742eb83c96123103e77460d8be396d5b87ee81e045aecaed070e152b6.m3u8
+#EXTINF:-1 group-title="港澳其他频道",[BD]tvbs-asia
+https://stream1.freetv.fun/363c2cded19435f6246775f35056ac65a2041ac53ee74d310346babe4550ab93.m3u8
+#EXTINF:-1 group-title="港澳其他频道",[BD]tvbs亚洲
+https://stream1.freetv.fun/395aa9bcecda230deb8046ff6d1b97f4158ab2d965e8610e865dc27560447d33.m3u8
+#EXTINF:-1 group-title="港澳其他频道",[BD]tvbs亚洲
+https://stream1.freetv.fun/0e9dc5f67eeae3d90d5afce9b70b9a06d6b3db352230f64d93221b83afb9e9ff.m3u8
+#EXTINF:-1 group-title="港澳其他频道",[BD]tvbs亚洲
+https://stream1.freetv.fun/52055e00fcf09c1a1fdd4289f27dce8639ebf402e478b7204b22711cb6589d4c.m3u8
+#EXTINF:-1 group-title="港澳其他频道",[BD]tvbs亞洲
+https://stream1.freetv.fun/0854ce5d4e8860e055549f5881ef05ab76b1bd0bc5bea78057553ed66f44d800.m3u8
+#EXTINF:-1 group-title="港澳其他频道",[BD]tvbs
+https://stream1.freetv.fun/a969d7787c96c8a7a9cf6f542343848dc7beb7475d548e093d53d2e9cde7d70b.ctv
+#EXTINF:-1 group-title="港澳其他频道",[BD]tvb plus
+https://stream1.freetv.fun/391d21caea3269c8477f1c3fc0f24bbfded5d4f4fcf1d63d96b5cd8574792a34.ctv
+#EXTINF:-1 group-title="有线/Now",[BD]now新聞
+https://stream1.freetv.fun/60ac4015a508533f429e33b5d560c3f5b07a3f99a362214308f832a4f5bc138b.m3u8
+#EXTINF:-1 group-title="TVBS（台湾）",[BD]TVBS亚洲 *28
+https://stream1.freetv.fun/1f5a105e1d310976a1fd6974db9451f8099e12c0df74fe2ad84087d5b6177f9a.m3u8
+#EXTINF:-1 group-title="港澳其他频道",[BD]tvbs亚洲
+https://stream1.freetv.fun/5d67b3e9131d07f6e7da4e6fafda09cc609ee7fefb2e14ca14cf5bd6da5e4107.m3u8
+#EXTINF:-1 group-title="港澳其他频道",[BD]tvb plus[geo-blocked]
+https://stream1.freetv.fun/5c71ddc1ee039d8057898c807e9cda2dfc61c7534d017fbf7c0de04c5c58c890.m3u8
+#EXTINF:-1 group-title="港澳其他频道",[BD]tvb plus
+https://stream1.freetv.fun/6ade45822dc9265d4aba6c1854bfd6a2635b13d96624929150024f662eca25d7.ctv
+#EXTINF:-1 group-title="港澳其他频道",[BD]tvb星河
+https://stream1.freetv.fun/e1f2e0d3c534c1d7b467fa6bf2a647527e6841c6c2d76b14b29e22682fba93f1.ctv
+#EXTINF:-1 group-title="港澳其他频道",[BD]tvb星河
+https://stream1.freetv.fun/1014774338dd6fcc6e3c0358712f55964ae23ffb1c8ff3a246979c2583fadff1.ctv
+#EXTINF:-1 group-title="港台RTHK",港台電視31 (官方)
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1 group-title="ViuTV",[BD]viutv[geo-blocked]
+https://stream1.freetv.fun/ad77293b3968d9314a0a612d10a82fcd2617e3370c750355a5ff31cced30ca13.m3u8
+#EXTINF:-1 group-title="ViuTV",[BD]viutvsix
+https://stream1.freetv.fun/1a7fde3e70bcb4a1190775d117fd0b40eb3beb97588b4db2afffb8d819b3cdec.m3u8
+#EXTINF:-1 group-title="凤凰中文台",[BD]凤凰中文
+https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.m3u8
+#EXTINF:-1 group-title="ViuTV",[BD]viutv
+https://stream1.freetv.fun/855fcf2cb6242c3bbf91d073a966eefcecb239f58f03460b4947d32ee7785d2c.m3u8
+#EXTINF:-1 group-title="港台RTHK",RTHK 31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 group-title="港台RTHK",RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="澳门频道",[BD]澳门莲花
+https://stream1.freetv.fun/08764ad621127dbb1b20420ad2826045c7b636c066856b752355818be52560f0.m3u8
+#EXTINF:-1 group-title="TVB翡翠台",[BD]翡翠
+https://stream1.freetv.fun/07b8f89d6c2bf405852bd8eb695e2389afdb45dfaf30d5273f8d2b819720681f.ctv
+#EXTINF:-1 group-title="TVB翡翠台",[BD]翡翠
+https://stream1.freetv.fun/ec738c8f8b5d5706670eb42e4fe79edc5d6f471ba93d0eb20dff4c372efef4db.ctv
+#EXTINF:-1 group-title="港澳其他频道",[BD]澳門MACAU
+https://stream1.freetv.fun/cddca3be72e1752fa1a211f70007dbf09875073ea2b9ddeb83b2b804a36209d4.m3u8
+#EXTINF:-1 group-title="TVB翡翠台",[BD]翡翠
+https://stream1.freetv.fun/363a02513a5dbd6658d52b26c733386779319595957dce38c539ddb689d7b401.ctv
+#EXTINF:-1 group-title="TVB翡翠台",[BD]翡翠台[geo-blocked]
+https://stream1.freetv.fun/829b7e0470319a0e8fff9a9cc0eccdf0f87d0785005387b2a9f38fd9c7cde69c.ctv
+#EXTINF:-1 group-title="TVB翡翠台",[BD]翡翠台[geo-blocked]
+https://stream1.freetv.fun/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8
+#EXTINF:-1 group-title="TVB翡翠台",[BD]翡翠[geo-blocked]
+https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.m3u8
+#EXTINF:-1 group-title="澳门频道",[BD]ช่อง 澳视澳门
+https://stream1.freetv.fun/14ab57c2f60a541dd8f75219ee88553faf0194f96019a9dd38b46f41e3ada1fc.m3u8
+#EXTINF:-1 group-title="澳门频道",[BD]澳视澳门
+https://stream1.freetv.fun/763163422eb12cc3476ec51f71afced753e0d2956126f1961dd7f77d1f08558e.m3u8
+#EXTINF:-1 group-title="澳门频道",[BD]澳门macau
+https://stream1.freetv.fun/fddbf56ad443cd99c1e7f1af8ab24e3f9e06f42e62d050af643250eed0231f80.m3u8
+#EXTINF:-1 group-title="凤凰资讯台",[BD]凤凰资讯[geo-blocked]
+https://stream1.freetv.fun/9cb86e77a2a19ece5a5ee90f18c9dd578dab4a8f3a0844fbd56b6a87db6746fb.ctv
+#EXTINF:-1 group-title="凤凰卫视",[BD]凤凰卫视中文[geo-blocked]
+https://stream1.freetv.fun/e6fd2d09a19cbeb78145f445436d44d9ec43c79a9ce2ffcdd4116a5c8bafdc6f.m3u8
+#EXTINF:-1 group-title="澳门频道",[BD]ช่อง 澳视澳门
+https://stream1.freetv.fun/d2e26396288b9f363e26cc630f13e4f1fde8fae958a0bde4ff2dac09f9a6ec9c.m3u8
+#EXTINF:-1 group-title="TVB翡翠台",TVB无线新闻
+https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8
+#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-8.ctv
+#EXTINF:-1 group-title="香港卫视",香港卫视
+https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8
+#EXTINF:-1 group-title="凤凰中文台",凤凰中文
+http://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 group-title="凤凰其他频道",凤凰香港
+https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
+#EXTINF:-1 group-title="凤凰其他频道",凤凰香港
+http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 group-title="电影频道",天映经典
-https://epg.pw/stream/257310e766410da552d36d6edd54d575489b6f2f6fc282f89d697d68b46b47fc.ctv
-#EXTINF:-1 group-title="港澳其他频道",香港電台普通話台
-https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
-#EXTINF:-1 group-title="港澳其他频道",香港佛陀
-http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-#EXTINF:-1 group-title="港澳其他频道",香港国际财经台
-https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8
-#EXTINF:-1 group-title="TVBS（台湾）",TVBS-Asia
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+https://stream1.freetv.fun/tian-ying-jing-dian-5.m3u8
+#EXTINF:-1 group-title="香港卫视",香港卫视
+https://stream1.freetv.fun/ae7eaf28d8610cdc1651ef6a1f7dbb24b49c5a87627d0d881330afaea37a1616.m3u8
+#EXTINF:-1 group-title="凤凰其他频道",[VGA]凤凰香港
+https://stream1.freetv.fun/1adc080c2a2e1019875ad56cd3e5093054475d1f818d2973262d3492d8a74306.ctv
+#EXTINF:-1 group-title="TVB翡翠台",翡翠台4K
+http://cdn6.163189.xyz/163189/fct4k
+#EXTINF:-1 group-title="港澳其他频道",NOW NEWS
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 group-title="TVB翡翠台",翡翠台
+http://r.jdshipin.com/qrfbg
+#EXTINF:-1 group-title="TVB翡翠台",翡翠台
+http://r.jdshipin.com/n90gt
+#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-21.ctv
 #EXTINF:-1 group-title="港澳其他频道",CreaTV Community Channel 15 (San Jose CA) (720p)
 https://reflect-creatv.cablecast.tv/live-13/live/live.m3u8
-#EXTINF:-1 group-title="香港卫视",香港卫视文旅
-https://epg.pw/stream/092a08c73e2f252b5b864bbf21fc7753e7c59c706165977ab071e8b2216da0cb.m3u8
+#EXTINF:-1 group-title="凤凰其他频道",[BD]凤凰香港[geo-blocked]
+https://stream1.freetv.fun/de73fec89305dacef19eafcb697172c30729dd00897cb0d30c80affbb3a582e9.ctv
+#EXTINF:-1 group-title="有线/Now",HEi Now (1080p)
+https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
+#EXTINF:-1 group-title="港澳其他频道",MS NOW (720p)
+http://41.205.93.154/MSNBC/index.m3u8
+#EXTINF:-1 group-title="澳门频道",Lotus Macau HD 720p (720p)
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#EXTINF:-1 group-title="TVBS（台湾）",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港澳其他频道",Pet Club TV (1080p)
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="港澳其他频道",NOW TV (720p)
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 group-title="ViuTV",Viutv
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 group-title="有线/Now",Now 14 (1080p)
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="ViuTV",Viutv
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 group-title="港台RTHK",凤凰香港台
+https://epg.pw/stream/27b49ba568efc8dcc9af6a79ec06ffd4a2e354e3e2060143be83fca695edf46e.m3u8
+#EXTINF:-1 group-title="有线/Now",有線新聞
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
+#EXTINF:-1 group-title="有线/Now",有線新聞台
+http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 group-title="有线/Now",有線財經信息台
+https://epg.pw/stream/0fddc0600d3868b05ad741d46294410aebca0fdc4fada5028dc54e624b7b17ca.m3u8
+#EXTINF:-1 group-title="澳门频道",澳门资讯
+https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 group-title="财经频道",耀才财经
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="港澳其他频道",香港有线新闻
+#EXTINF:-1 group-title="香港卫视",香港卫视文旅
+https://epg.pw/stream/092a08c73e2f252b5b864bbf21fc7753e7c59c706165977ab071e8b2216da0cb.m3u8
+#EXTINF:-1 group-title="港澳其他频道",香港国际财经台
+https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8
+#EXTINF:-1 group-title="有线/Now",香港有線新聞
 https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
+#EXTINF:-1 group-title="港澳其他频道",香港電台普通話台
+https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 #EXTINF:-1 group-title="香港卫视",香港卫视
 https://epg.pw/stream/ad0b854c8dbe94e0e45c618aa5a6da822e8437f77ae84fdf6718423015495aaa.m3u8
