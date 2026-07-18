@@ -335,13 +335,9 @@ def _is_mpeg_ts(data):
     # 在前 192 字节搜索 0x47
     for i in range(min(192, len(data) - 187)):
         if data[i] == 0x47:
-            # 验证下一个包
-            if i + 188 * 2 <= len(data):
-                if data[i + 188] == 0x47:
-                    return True, "MPEG-TS (chain)"
-            elif i + 188 <= len(data):
-                if data[i + 188] == 0x47:
-                    return True, "MPEG-TS (sync)"
+            # 安全验证：确保 i+188 在有效索引范围内
+            if i + 188 < len(data) and data[i + 188] == 0x47:
+                return True, "MPEG-TS (chain)"
             return True, "MPEG-TS (found)"
     return False, "not MPEG-TS"
 
